@@ -1,4 +1,4 @@
-# SiegeWar : Xenim Version
+# SiegeWar : XenimMC Version
 *SiegeWar* adds a war system to *Towny*.
 ### Features
 * ⚔️ **Sieges:** Wars are conducted by means of sieges. A siege occurs when a nation attacks a town.
